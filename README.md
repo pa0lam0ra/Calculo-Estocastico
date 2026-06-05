@@ -1,2 +1,2 @@
-# C-lculo-Estoc-stico
+# Calculo-Estocastico
 Evidencias de la materia de Cálculo Estocástico
